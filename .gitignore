@@ -1,0 +1,22 @@
+# Common temp files
+.DS_Store
+.vscode/
+*.iml
+.idea
+*.pyc
+*.pickle
+*.swp
+*.swo
+
+./src/dgr/figs
+./src/tailr_tf/figs
+./src/tailr_torch/figs
+
+# Bazel related
+bazel-*
+
+# Notebook
+.ipynb_checkpoints/
+
+# Mac
+__MACOSX/
